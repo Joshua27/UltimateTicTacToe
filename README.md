@@ -1,4 +1,4 @@
-__Ultimate Tic-Tac-Toe - Android App___
+__Ultimate Tic-Tac-Toe - Android App__
 
 Play the classic or ultimate Tic-Tac-Toe against a computer opponent with a variable level of difficulty.
 
