@@ -1,6 +1,6 @@
-Ultimate Tic-Tac-Toe - Android App
+__Ultimate Tic-Tac-Toe - Android App___
 
-Play the classic or ultimate Tic-Tac-Toe against a computer opponent.
+Play the classic or ultimate Tic-Tac-Toe against a computer opponent with a variable level of difficulty.
 
 Minimum Sdk-Version: 16
 
