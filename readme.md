@@ -1,11 +1,12 @@
 Ultimate Tic-Tac-Toe - Android App
 
-Play the classic or ultimate Tic-Tac-Toe on your Android device.
+Play the classic or ultimate Tic-Tac-Toe against a computer opponent.
+Minimum Sdk-Version: 16
 
-![alt tag](https://github.com/Joshua27/UltimateTicTacToe/blob/master/images/main_menu.png)
+![Main Menu](https://github.com/Joshua27/UltimateTicTacToe/blob/master/images/main_menu.png)
 
-![alt tag](https://github.com/Joshua27/UltimateTicTacToe/blob/master/images/ultimate.png)
+![Ultimate Mode](https://github.com/Joshua27/UltimateTicTacToe/blob/master/images/ultimate.png)
 
-![alt tag](https://github.com/Joshua27/UltimateTicTacToe/blob/master/images/ultimate_won.png)
+![Ultimate Mode won](https://github.com/Joshua27/UltimateTicTacToe/blob/master/images/ultimate_won.png)
 
-![alt tag](https://github.com/Joshua27/UltimateTicTacToe/blob/master/images/stats.png)
+![Statistics](https://github.com/Joshua27/UltimateTicTacToe/blob/master/images/stats.png)
